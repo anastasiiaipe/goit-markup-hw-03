@@ -87,6 +87,7 @@ img {
     color: #2E2F42;
     font-weight: 500;
     line-height: 1.5;
+    padding: 24px 0;
 }
 
 .link-nav:hover,
