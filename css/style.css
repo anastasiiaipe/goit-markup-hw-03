@@ -80,13 +80,13 @@ img {
 }
 
 .header-nav-item {
-    color: #2E2F42;
-    font-weight: 500;
-    line-height: 1.5;
     padding: 24px 0;
 }
 
 .link-nav {
+    color: #2E2F42;
+    font-weight: 500;
+    line-height: 1.5;
 }
 
 .link-nav:hover,
