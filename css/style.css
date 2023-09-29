@@ -50,10 +50,8 @@ img {
 .header .container {
     display: flex;
     align-items: center;
-    justify-content: space-between;
 }
 .header-nav {
-    
     display: flex;
     align-items: center;
 }
@@ -67,7 +65,7 @@ img {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     margin-right: 76px;
-}
+    }
 
 .accent-web-header {
     color: #2e2f42;
@@ -95,7 +93,7 @@ img {
     color: #404BBF;
 }
 .adress {
-    font-style: normal;
+    margin-left: auto;
 }
 
 .header-adress-list {
@@ -130,7 +128,8 @@ img {
     color:  #FFF;
     font-size: 56px;
     line-height: 1.07;
-    margin: 48px auto;
+    margin: 0 auto;
+    margin-bottom: 48px;
 }
 
 
@@ -203,7 +202,7 @@ img {
 
 /*---------section-3---------*/
 .team {
-    background: #F4F4FD;
+    background-color: #F4F4FD;
     padding: 120px 0;
 }
 
